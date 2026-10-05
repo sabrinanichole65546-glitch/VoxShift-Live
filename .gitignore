@@ -1,0 +1,26 @@
+# Android
+.gradle/
+.idea/
+local.properties
+build/
+*.apk
+*.aab
+*.iml
+
+# macOS
+.DS_Store
+
+# Node (if used for web build)
+node_modules/
+dist/
+.env
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Generated
+*.log
